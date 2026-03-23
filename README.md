@@ -23,16 +23,20 @@
 
 <br>
 
-## 👩‍💻 About Me
+<h2 align="center">👩‍💻 About Me</h2>
 
-Sono un appassionato di sicurezza informatica, costantemente alla ricerca di nuove vulnerabilità e modi per proteggere le infrastrutture digitali. Il mio obiettivo è trasformare sistemi complessi in fortezze inespugnabili, unendo solide competenze di sviluppo ad approcci di sicurezza sia offensivi che difensivi.
+<div align="center">
+  <p>Sono un appassionato di sicurezza informatica, costantemente alla ricerca di nuove vulnerabilità e modi per proteggere le infrastrutture digitali. Il mio obiettivo è trasformare sistemi complessi in fortezze inespugnabili, unendo solide competenze di sviluppo ad approcci di sicurezza sia offensivi che difensivi.</p>
+</div>
 
 <br>
 
-## 💻 Tech Stack & Tools
+<h2 align="center">💻 Tech Stack & Tools</h2>
+
+<div align="center">
 
 ```json
-user@cyber-lab:~$ whoami --skills --format=json
+simone@macbook:~$ whoami --skills --format=json
 
 {
   "user": "Simone Palladino",
@@ -45,8 +49,8 @@ user@cyber-lab:~$ whoami --skills --format=json
       "C / C++"
     ],
     "databases":[
-      "NoSQL"
-      "MySQL"
+      "NoSQL",
+      "MySQL",
       "Oracle SQL"
     ],
     "Operating Systems": [
