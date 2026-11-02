@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_Hello,+World!;%3E_I'm+Simone+Palladino;%3E_Cybersecurity+Student+%26+Researcher;%3E_Quantum+Security+%7C+Smart+Contracts+%7C+AI;%3E_Securing+the+digital+realm." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_Hello,+World!;%3E_I'm+Simone+Palladino;%3E_Cybersecurity+Student" alt="Typing SVG" />
   </a>
 </div>
 
-<h1 align="center">🛡️ Simone Palladino | Cybersecurity Student & Ethical Hacker</h1>
+<h1 align="center"> Simone Palladino | Cybersecurity Student </h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/palladinosimone/">
