@@ -26,7 +26,7 @@
 <h2 align="center">👩‍💻 About Me</h2>
 
 <div align="center">
-  <p>Sono un appassionato di sicurezza informatica, costantemente alla ricerca di nuove vulnerabilità e modi per proteggere le infrastrutture digitali. Il mio obiettivo è trasformare sistemi complessi in fortezze inespugnabili, unendo solide competenze di sviluppo ad approcci di sicurezza sia offensivi che difensivi.</p>
+  <p>Passionate about cybersecurity, I am constantly exploring new vulnerabilities and methodologies to safeguard digital infrastructure. My mission is to turn complex systems into impenetrable fortresses, leveraging solid development skills alongside both offensive and defensive security strategies.</p>
 </div>
 
 <br>
